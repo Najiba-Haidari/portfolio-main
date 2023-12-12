@@ -1,0 +1,19 @@
+.resume{
+    /* height: 74vh; */
+    /* padding-top: 80px; */
+    /* margin: 0 auto 0 100px; */
+}
+.resume-heading{
+    font-size: 35px;
+    color:#126d5e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    /* margin-bottom: 30px; */
+    font-weight: bold;
+    /* margin-left: 300px; */
+};
+
+.margin{
+    margin-left: 400px;
+}
+
