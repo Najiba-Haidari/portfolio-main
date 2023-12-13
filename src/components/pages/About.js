@@ -4,19 +4,22 @@ import "animate.css";
 export default function About() {
   return (
     <>
-      <div id="about">
-        <div
-          className="about-body text-start container w-50 h-100"
-          style={{ height: "76vh", paddingTop: "90px", marginTop: "40px" }}
-        >
-          <h1 className="heading animate__animated animate__backInRight p-3">
-            About Me
-          </h1>
+      <div id="about" className="container d-flex align-items-center">
+        <div className="w-25 text-start align-self-center ">
           <img
             className="image rounded-circle d-block animate__animated animate__rotateIn"
             src="./images/najibah.jpeg"
             alt="najiba"
           />
+        </div>
+        <div
+          className="about-body text-start container w-75 "
+          // style={{ height: "76vh", paddingTop: "90px", marginTop: "40px" }}
+        >
+          <h1 className="heading animate__animated animate__backInRight p-3">
+            About Me
+          </h1>
+
           <p className="content animate__animated animate__backInLeft">
             I'm Najiba Haidari. I'm a passionate coder who chose to pursue a
             coding and full-stack bootcamp. Ever since my college years, I've
