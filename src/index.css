@@ -30,7 +30,7 @@ a.nav-tab {
   height: 2px;
   background-color: rgba(0, 255, 0);
   background-image: linear-gradient(to right, grey , yellow );
-  transition: width 0.5s ease-out;
+  transition: width 0.35s ease-out;
   
 }
 .nav-tab:hover::before {
@@ -45,7 +45,7 @@ body {
   background-color: var(--dark);
   color: white;
   font-family: var(--font-family);
-  margin : 30px 30px 30px 30px;
+  /* margin : 30px 30px 30px 30px; */
 }
 .nav-list a{
   color: white;
