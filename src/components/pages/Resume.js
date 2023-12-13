@@ -1,5 +1,4 @@
 import React from "react";
-import "../../styles/Resume.css"
 
 export default function Resume(props) {
   // const [frontEnd, setFrontEnd] = useState(["HTML", "CSS", "Javascript", "JQuery", "Responsive Design", "React", "Bootstrap"]);

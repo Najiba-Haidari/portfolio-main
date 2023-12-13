@@ -1,5 +1,4 @@
 import React from "react";
-import "../../styles/About.css";
 import "animate.css";
 
 export default function About() {

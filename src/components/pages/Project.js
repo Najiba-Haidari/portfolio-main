@@ -1,5 +1,4 @@
 import React from "react";
-import "../../styles/Project.css";
 import "animate.css";
 
 // const cardStyles = {

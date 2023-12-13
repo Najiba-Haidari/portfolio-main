@@ -1,21 +1,4 @@
 import React from 'react';
-import '../../src/styles/NavTabs.css'
-
-const myStyles = {
-  navImage: {
-    // backgroundImage: "url('/images/background.png')",
-    // backgroundColor: "",
-    // backgroundSize: "cover",
-    // height: "180px",
-    backgroundColor: "",
-    height: "140px",
-
-  },
-  link:{
-    color: "",
-    fontSize: "20px",
-  }
-}
 
 
 
@@ -27,6 +10,9 @@ function NavTabs({ currentPage, handlePageChange }) {
  <div className='nav-name'>Najiba Haidari</div>
  <div className='nav-list'>
   <a href="#about" className='nav-tab'>About</a>
+  <a href="#portfolio" className='nav-tab'>Portfolio</a>
+  <a href="#contact" className='nav-tab'>Contact</a>
+  <a href="#resume" className='nav-tab'>Resume</a>
  </div>
     </>
   );
