@@ -58,10 +58,21 @@ body {
 }
 
 .nav-name{
-  background-color: yellow;
+  background-color: rgb(247, 223, 9);
+  /* border-radius: 0% 90% 90% 0%; */
   color: black;
   margin: 0 0 0 0;
   width: fit-content;
+  width: 200px;
+  height: 100px; /* as the half of the width */
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+  /* border: 10px solid gray; */
+  /* border-bottom: 0; */
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .image{

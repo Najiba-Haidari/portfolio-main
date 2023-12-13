@@ -5,7 +5,9 @@ import React from "react";
 export default function NavTabs() {
   return (
     <div className="navtabs d-flex align-items-start ">
-      <div className="nav-name fs-1 w-50 my-2 vh-50 align-self-center p-4">Najiba Haidari</div>
+    
+      <div className="nav-name fs-1 w-50 my-2 vh-50 align-self-center p-4">
+      Najiba Haidari</div>
       <div className="nav-list flex-fill p-4 ">
         <a href="#about" className="nav-tab m-4 text-decoration-none ">
           <span className="firstletter">A</span>bout
