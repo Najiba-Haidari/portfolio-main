@@ -7,16 +7,16 @@ export default function NavTabs() {
     <div className="navtabs container d-flex align-items-start">
       <div className="nav-name flex-fill fs-1">Najiba Haidari</div>
       <div className="nav-list flex-fill p-4 ">
-        <a href="#about" className="nav-tab m-4 text-decoration-none text-light">
-          About
+        <a href="#about" className="nav-tab m-4 text-decoration-none ">
+          <span className="firstletter">A</span>bout
         </a>
-        <a href="#portfolio" className="nav-tab m-4 text-decoration-none text-light">
+        <a href="#portfolio" className="nav-tab m-4 text-decoration-none ">
           Portfolio
         </a>
-        <a href="#resume" className="nav-tab m-4 text-decoration-none text-light">
+        <a href="#resume" className="nav-tab m-4 text-decoration-none ">
           Resume
         </a>
-        <a href="#contact" className="nav-tab m-4 text-decoration-none text-light">
+        <a href="#contact" className="nav-tab m-4 text-decoration-none ">
           Contact
         </a>
       </div>
