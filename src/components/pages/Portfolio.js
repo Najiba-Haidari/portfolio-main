@@ -60,7 +60,7 @@ const projects = [
 export default function Porfolio() {
 
   return (
-    <div className="my-4 py-5 ">
+    <div className="my-4 py-5 " id="portfolio">
       <h1 className="text-center animate__animated animate__bounceInDown" style={styles.heading}>My Portfolio</h1>
       <div className="container ">
         <div className="d-flex flex-wrap justify-content-evenly m-2 p-4 animate__animated animate__bounceInUp">

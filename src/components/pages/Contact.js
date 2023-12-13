@@ -42,7 +42,7 @@ function Contact() {
   };
 
   return (
-    <div className='container-contact ' style={{height:'80vh', paddingTop: '80px', paddingBottom:'30px'}}>
+    <div className='container-contact ' id='contact' style={{height:'80vh', paddingTop: '80px', paddingBottom:'30px'}}>
     <div className='container-form '>
       <h3 className='heading-form'>Contact Me!</h3>
       <form className="form">

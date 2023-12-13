@@ -4,7 +4,7 @@ import React from "react";
 // We assign them to their own variable names
 function Footer() {
   return (
-    <div className="">
+    <div className="" >
       <ul className="nav justify-content-center ">
         <li className="nav-item">
           <a className="nav-link footer-link" href="https://github.com/Najiba-Haidari">

@@ -26,7 +26,7 @@ export default function Resume(props) {
   const backendSkills = backEnd.map((skill) => <li className="px-4 mx-4">{skill}</li>);
 
   return (
-   <div className="resume" style={{height: '80vh', paddingTop: '80px', marginTop: '40px'}}>
+   <div className="resume" id="resume" style={{height: '80vh', paddingTop: '80px', marginTop: '40px'}}>
     <div className="container">
       <p className="text-center p-5 fs-4">
         Download my Resume {''}
