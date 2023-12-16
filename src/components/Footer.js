@@ -12,7 +12,7 @@ function Footer() {
               xmlns="http://www.w3.org/2000/svg"
               width="30"
               height="30"
-              fill="brown"
+              fill="white"
               class="bi bi-github"
               viewBox="0 0 16 16"
             >
@@ -29,7 +29,7 @@ function Footer() {
               xmlns="http://www.w3.org/2000/svg"
               width="30"
               height="30"
-              fill="brown"
+              fill="white"
               class="bi bi-linkedin"
               viewBox="0 0 16 16"
             >
@@ -43,7 +43,7 @@ function Footer() {
               xmlns="http://www.w3.org/2000/svg"
               width="30"
               height="30"
-              fill="brown"
+              fill="white"
               class="bi bi-stack-overflow"
               viewBox="0 0 16 16"
             >
@@ -54,9 +54,9 @@ function Footer() {
         </li>
       </ul>
       <div className="text-center p-3" 
-   style={{backgroundColor: "#4d2600", color:"lightblue" }}>
+   style={{backgroundColor: "white", color: "black" }}>
     © 2023 Copyright:
-    <a className="text-white" href="www.google.com">Najiba2023</a>
+    <a className="text-dark" href="www.google.com">Najiba2023</a>
   </div>
     </div>
   )

@@ -42,11 +42,12 @@ function Contact() {
   };
 
   return (
-    <div className='container-contact ' id='contact' style={{height:'80vh', paddingTop: '80px', paddingBottom:'30px'}}>
+    <div className='container-contact d-flex justify-content-center' id='contact' style={{height:'80vh', paddingTop: '80px', paddingBottom:'30px'}}>
     <div className='container-form '>
-      <h3 className='heading-form'>Contact Me!</h3>
-      <form className="form">
+      <h3 className='heading-form mt-4'>Contact Me!</h3>
+      <form className="form d-flex flex-column p-4 rounded">
         <input
+        className='p-2 my-2'
           value={email}
           name="email"
           onChange={handleInputChange}
@@ -54,6 +55,7 @@ function Contact() {
           placeholder="Email"
         />
         <input
+        className='p-2 my-2'
           value={userName}
           name="userName"
           onChange={handleInputChange}
@@ -61,7 +63,7 @@ function Contact() {
           placeholder="Username"
         />
         <textarea
-        className='textarea'
+        className='textarea p-2 my-2'
         value={textarea}
           name="textarea"
           onChange={handleInputChange}
@@ -70,7 +72,7 @@ function Contact() {
          >
           Please write your message
           </textarea>
-        <button className='submitButton btn-primary btn' type="submit" onClick={handleContactSubmit}>Submit</button>
+        <button className='submitButton btn-primary btn p-2 my-2' type="submit" onClick={handleContactSubmit}>Submit</button>
       </form>
       {errorMessage && (
         <div className='errorMessage' >

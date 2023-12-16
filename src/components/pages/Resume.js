@@ -26,16 +26,16 @@ export default function Resume(props) {
   const backendSkills = backEnd.map((skill) => <li className="px-4 mx-4">{skill}</li>);
 
   return (
-   <div className="resume" id="resume" style={{height: '80vh', paddingTop: '80px', marginTop: '40px'}}>
+   <div className="resume " id="resume" style={{height: '90vh', paddingTop: '80px', marginTop: '40px'}}>
     <div className="container">
-      <p className="text-center p-5 fs-4">
+      <p className="text-center p-5 fs-3 ">
         Download my Resume {''}
-        <a href="/public/resume/blank-resume.pdf" rel="noreferrer" target="_blank" >
+        <a href="./public/resume/blank-resume.pdf" rel="noreferrer" target="_blank" >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="30"
             height="30"
-            fill="blue"
+            fill="red"
             class="bi bi-download"
             viewBox="0 0 16 16"
           >
@@ -44,21 +44,24 @@ export default function Resume(props) {
           </svg>
         </a>
       </p>
-      <h3 className="my-4 resume-heading ">Front-end Proficiencies</h3>
-      <ul className="list-group">
+      <div className="text-start ">
+      <h3 className="resume-heading text-warning">Front-end Proficiencies</h3>
+      <ul className="list-group p-3">
         {/* {props.frontEnd.map((skill, index) => (
           <li className="list-group-item" key={index}>{skill}</li>
         ))} */}
         {frontendSkills}
       </ul>
-
-      <h3 className="my-4 resume-heading">Back-end Proficiencies</h3>
-      <ul className="list-group">
+</div>
+<div className="text-start">
+      <h3 className="resume-heading text-warning">Back-end Proficiencies</h3>
+      <ul className="list-group p-3">
         {/* {props.backEnd.map((skill, index) => (
           <li className="list-group-item" key={index}>{skill}</li>
         ))} */}
         {backendSkills}
       </ul>
+      </div>
     </div>
     </div>
   );
