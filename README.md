@@ -17,7 +17,7 @@ Being a web developer means being part of a community. You’ll need a place not
   - [License](#license)
 
 ## Deployed Link
-- Github Repo URL: 
+- Github Repo URL: https://najiba-haidari.github.io/portfolio-main/
 
 ## Installation
 This app needs to be run in either CLI or shell.
