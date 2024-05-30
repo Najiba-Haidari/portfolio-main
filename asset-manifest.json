@@ -1,15 +1,27 @@
 {
   "files": {
     "main.css": "/Najiba-Haidari/portfolio-main/static/css/main.1533e4a1.css",
-    "main.js": "/Najiba-Haidari/portfolio-main/static/js/main.581d6f09.js",
+    "main.js": "/Najiba-Haidari/portfolio-main/static/js/main.7073d48b.js",
     "static/js/453.0c11d810.chunk.js": "/Najiba-Haidari/portfolio-main/static/js/453.0c11d810.chunk.js",
+    "static/media/travel-forecast.png": "/Najiba-Haidari/portfolio-main/static/media/travel-forecast.8ffc502b98d669fbf525.png",
+    "static/media/najibah.jpg": "/Najiba-Haidari/portfolio-main/static/media/najibah.8b0912c6fa188ca6b6b0.jpg",
+    "static/media/ecommerce.jpg": "/Najiba-Haidari/portfolio-main/static/media/ecommerce.595086f3b455f0e3a850.jpg",
+    "static/media/readme.png": "/Najiba-Haidari/portfolio-main/static/media/readme.2049c865831427ed928f.png",
+    "static/media/workout-wizard.png": "/Najiba-Haidari/portfolio-main/static/media/workout-wizard.8d2fdbf3284d9c684a4f.png",
+    "static/media/exerciseXpert.jpeg": "/Najiba-Haidari/portfolio-main/static/media/exerciseXpert.2fc1029c1b74c2e721c0.jpeg",
+    "static/media/weather-dashboard.jpeg": "/Najiba-Haidari/portfolio-main/static/media/weather-dashboard.daec02fedb43641c03ea.jpeg",
+    "static/media/notetaker.jpeg": "/Najiba-Haidari/portfolio-main/static/media/notetaker.0fa52333e7a5a39d4d09.jpeg",
+    "static/media/scheduler.png": "/Najiba-Haidari/portfolio-main/static/media/scheduler.70f73a036b82de75426e.png",
+    "static/media/tictactoe.jpeg": "/Najiba-Haidari/portfolio-main/static/media/tictactoe.8989033bfcb38878574d.jpeg",
+    "static/media/password-generator.png": "/Najiba-Haidari/portfolio-main/static/media/password-generator.ebd2db70c31161875d8c.png",
+    "static/media/Najiba.pdf": "/Najiba-Haidari/portfolio-main/static/media/Najiba.f48fdac6dcde338ed00d.pdf",
     "index.html": "/Najiba-Haidari/portfolio-main/index.html",
     "main.1533e4a1.css.map": "/Najiba-Haidari/portfolio-main/static/css/main.1533e4a1.css.map",
-    "main.581d6f09.js.map": "/Najiba-Haidari/portfolio-main/static/js/main.581d6f09.js.map",
+    "main.7073d48b.js.map": "/Najiba-Haidari/portfolio-main/static/js/main.7073d48b.js.map",
     "453.0c11d810.chunk.js.map": "/Najiba-Haidari/portfolio-main/static/js/453.0c11d810.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1533e4a1.css",
-    "static/js/main.581d6f09.js"
+    "static/js/main.7073d48b.js"
   ]
 }
