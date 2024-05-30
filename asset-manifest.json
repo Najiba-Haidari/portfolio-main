@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Najiba-Haidari/portfolio-main/static/css/main.1533e4a1.css",
-    "main.js": "/Najiba-Haidari/portfolio-main/static/js/main.7073d48b.js",
+    "main.js": "/Najiba-Haidari/portfolio-main/static/js/main.090b9578.js",
     "static/js/453.0c11d810.chunk.js": "/Najiba-Haidari/portfolio-main/static/js/453.0c11d810.chunk.js",
-    "static/media/travel-forecast.png": "/Najiba-Haidari/portfolio-main/static/media/travel-forecast.8ffc502b98d669fbf525.png",
     "static/media/najibah.jpg": "/Najiba-Haidari/portfolio-main/static/media/najibah.8b0912c6fa188ca6b6b0.jpg",
     "static/media/ecommerce.jpg": "/Najiba-Haidari/portfolio-main/static/media/ecommerce.595086f3b455f0e3a850.jpg",
     "static/media/readme.png": "/Najiba-Haidari/portfolio-main/static/media/readme.2049c865831427ed928f.png",
     "static/media/workout-wizard.png": "/Najiba-Haidari/portfolio-main/static/media/workout-wizard.8d2fdbf3284d9c684a4f.png",
+    "static/media/travel-forecast.png": "/Najiba-Haidari/portfolio-main/static/media/travel-forecast.497eaef33176908f21c0.png",
     "static/media/exerciseXpert.jpeg": "/Najiba-Haidari/portfolio-main/static/media/exerciseXpert.2fc1029c1b74c2e721c0.jpeg",
     "static/media/weather-dashboard.jpeg": "/Najiba-Haidari/portfolio-main/static/media/weather-dashboard.daec02fedb43641c03ea.jpeg",
     "static/media/notetaker.jpeg": "/Najiba-Haidari/portfolio-main/static/media/notetaker.0fa52333e7a5a39d4d09.jpeg",
@@ -17,11 +17,11 @@
     "static/media/Najiba.pdf": "/Najiba-Haidari/portfolio-main/static/media/Najiba.f48fdac6dcde338ed00d.pdf",
     "index.html": "/Najiba-Haidari/portfolio-main/index.html",
     "main.1533e4a1.css.map": "/Najiba-Haidari/portfolio-main/static/css/main.1533e4a1.css.map",
-    "main.7073d48b.js.map": "/Najiba-Haidari/portfolio-main/static/js/main.7073d48b.js.map",
+    "main.090b9578.js.map": "/Najiba-Haidari/portfolio-main/static/js/main.090b9578.js.map",
     "453.0c11d810.chunk.js.map": "/Najiba-Haidari/portfolio-main/static/js/453.0c11d810.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1533e4a1.css",
-    "static/js/main.7073d48b.js"
+    "static/js/main.090b9578.js"
   ]
 }
