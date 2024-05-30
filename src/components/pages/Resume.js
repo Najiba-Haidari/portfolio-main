@@ -4,13 +4,13 @@ export default function Resume(props) {
   // const [frontEnd, setFrontEnd] = useState(["HTML", "CSS", "Javascript", "JQuery", "Responsive Design", "React", "Bootstrap"]);
   // const [backEnd, setBackEnd] = useState(["APIs", "Node","Express", "MySQL, Sequelize", "MongoDB, Mongoose", "REST", "GraphQL"]);
   const frontEnd = [
+    "React.js",
+    "Javascript",
     "HTML",
     "CSS",
-    "Javascript",
-    "JQuery",
-    "Responsive Design",
-    "React",
     "Bootstrap",
+    "Fundamental Java",
+    "Responsive Design",
   ];
   const backEnd = [
     "APIs",
@@ -18,7 +18,7 @@ export default function Resume(props) {
     "Express",
     "MySQL, Sequelize",
     "MongoDB, Mongoose",
-    "REST",
+    "Git",
     "GraphQL",
   ];
 
@@ -30,7 +30,7 @@ export default function Resume(props) {
     <div className="container">
       <p className="text-center p-5 fs-3 ">
         Download my Resume {''}
-        <a href="./public/resume/blank-resume.pdf" rel="noreferrer" target="_blank" >
+        <a href="./resume/Najiba-Haidari_Resume_Activatework-05082024.pdf" rel="noreferrer" target="_blank" >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="30"

@@ -55,8 +55,8 @@ function Footer() {
       </ul>
       <div className="text-center p-3" 
    style={{backgroundColor: "white", color: "black" }}>
-    © 2023 Copyright:
-    <a className="text-dark" href="www.google.com">Najiba2023</a>
+    © 2024 Copyright:
+    <a className="text-dark" href="www.google.com">Najiba2024</a>
   </div>
     </div>
   )

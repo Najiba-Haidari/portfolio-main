@@ -22,7 +22,7 @@ export default function About() {
 
           <p className="content animate__animated animate__backInRight">
             I'm Najiba Haidari. I'm a passionate coder who chose to pursue a
-            coding and full-stack bootcamp. Ever since my college years, I've
+            coding and full-stack bootcamp. Ever since university days, I've
             had a deep love for coding. Prior to this career switch, I gained 10
             years of valuable experience in administrative roles, and I hold a
             bachelor's degree in finance. With my strong background in
