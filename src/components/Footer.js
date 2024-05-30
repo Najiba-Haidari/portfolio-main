@@ -56,7 +56,7 @@ function Footer() {
       <div className="text-center p-3" 
    style={{backgroundColor: "white", color: "black" }}>
     © 2024 Copyright:
-    <a className="text-dark" href="www.google.com">Najiba2024</a>
+    <a className="text-dark" href="www.google.com">Najiba 2024</a>
   </div>
     </div>
   )
