@@ -8,7 +8,7 @@ export default function About() {
         <div className="about-image col text-start p-3">
           <img
             className="image rounded-circle d-block animate__animated animate__rotateIn"
-            src="./images/najibah.jpeg"
+            src="../../public/images/najibah.jpeg"
             alt="najiba"
           />
         </div>
