@@ -1,5 +1,7 @@
 import React from "react";
 import "animate.css";
+import najibah from "../../images/najibah.jpg";
+
 
 export default function About() {
   return (
@@ -8,7 +10,7 @@ export default function About() {
         <div className="about-image col text-start p-3">
           <img
             className="image rounded-circle d-block animate__animated animate__rotateIn"
-            src="../../public/images/najibah.jpeg"
+            src={najibah}
             alt="najiba"
           />
         </div>
@@ -16,9 +18,12 @@ export default function About() {
           className="col about-body text-start container "
           // style={{ height: "76vh", paddingTop: "90px", marginTop: "40px" }}
         >
-          <h1 className="heading animate__animated animate__backInRight p-3">
-            About Me
+        <h1 className="heading animate__animated animate__backInRight p-1">
+            Full Stack Web Developer
           </h1>
+          <h4 className="heading animate__animated animate__backInRight p-3">
+            About Me
+          </h4>
 
           <p className="content animate__animated animate__backInRight">
             I'm Najiba Haidari. I'm a passionate coder who chose to pursue a

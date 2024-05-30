@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../../resume/Najiba.pdf"
 
 export default function Resume(props) {
   // const [frontEnd, setFrontEnd] = useState(["HTML", "CSS", "Javascript", "JQuery", "Responsive Design", "React", "Bootstrap"]);
@@ -30,7 +31,7 @@ export default function Resume(props) {
     <div className="container">
       <p className="text-center p-5 fs-3 ">
         Download my Resume {''}
-        <a href="./resume/Najiba-Haidari_Resume_Activatework-05082024.pdf" rel="noreferrer" target="_blank" >
+        <a href={resume} rel="noreferrer" target="_blank" >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="30"

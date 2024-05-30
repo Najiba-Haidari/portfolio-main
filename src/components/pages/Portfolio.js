@@ -1,84 +1,84 @@
 import React from "react";
 import Project from "./Project.js";
 import "animate.css"
-
-// const styles= {
-//   heading:{
-//     fontSize: "2.5rem",
-//     fontWeight: "bold",
-//     fontFamily :"'Times New Roman', Times, serif",
-//     color:"#126d5e",
-//     paddingTop: "90px",
-//   }
-// }
+import travel from '../../images/travel-forecast.png'
+import exerciseXpert from "../../images/exerciseXpert.jpeg"
+import wizard from "../../images/workout-wizard.png"
+import readme from "../../images/readme.png"
+import ecommerce from "../../images/ecommerce.jpg"
+import weather from "../../images/weather-dashboard.jpeg"
+import workScheduler from "../../images/scheduler.png"
+import tictactoe from "../../images/tictactoe.jpeg"
+import notetaker from "../../images/notetaker.jpeg"
+import passwordGenerator from "../../images/password-generator.png"
 
 const projects = [
   {
     title: "Travel Forecast - Project 1",
-    imagePath: "./images/travel-forecast.png",
+    imagePath: travel,
     imageUrl: "https://github.com/Najiba-Haidari/Travel-Forecast",
     alt: "Travel Forecast",
-    language: "Server-Side APIs and Javascript",
+    language: "Javascript",
   },
   {
     title: "exerciseXpert-react",
-    imagePath: "./images/exerciseXpert.jpeg",
+    imagePath: exerciseXpert,
     imageUrl: "https://github.com/Najiba-Haidari/exerciseXpert-react",
     alt: "exerciseXpert in React",
     language: "Javascript, React.js, React hooks, Vitejs",
   },
   {
     title: "Workout Wizard App - Project 3",
-    imagePath: "./images/workout-wizard.png",
+    imagePath: wizard,
     imageUrl: "https://github.com/Najiba-Haidari/workout-wizard-app",
     alt: "Workout Wizard App",
     language: "MVC, MERN, React",
   },
   {
     title: "Read-me Generator",
-    imagePath: "./images/readme.png",
+    imagePath: readme,
     imageUrl: "https://github.com/Najiba-Haidari/readme-generator",
     alt: "Read-me Generator",
     language: "Node.js",
   },
   {
     title: "E-commerce Backend",
-    imagePath: "./images/ecommerce.jpeg",
+    imagePath: ecommerce,
     imageUrl: "https://github.com/Najiba-Haidari/ecommerce-backend",
     alt: "E-commerce Backend",
     language: "Node.js, Express.js, Mysql2, Dotenv",
   },
   {
     title: "Weather Dashboard",
-    imagePath: "./images/weather-dashboard.jpeg",
+    imagePath: weather,
     imageUrl: "https://najiba-haidari.github.io/weather-dashboard/",
     alt: "Weather Dashboard",
-    language: "Javascript, Server-Side APIs",
+    language: "Javascript",
   },
   {
     title: "Work Day Scheduler",
-    imagePath: "./images/scheduler.png",
+    imagePath: workScheduler,
     imageUrl: "https://github.com/Najiba-Haidari/week5-daily-scheduler",
     alt: "Work Day Scheduler",
-    language: "Javascript, Third Party APIs",
+    language: "Javascript",
   },
   {
     title: "Tic Tac Toe",
-    imagePath: "./images/tictactoe.jpeg",
+    imagePath: tictactoe,
     imageUrl: "https://github.com/Najiba-Haidari/tic-tac-toe",
     alt: "Tic Tac Toe",
     language: "Javascript, CSS, HTML",
   },
   {
     title: "Note Taker",
-    imagePath: "./images/notetaker.jpeg",
+    imagePath: notetaker,
     imageUrl: "https://github.com/Najiba-Haidari/note-taker",
     alt: "Note Taker",
     language: "Javascript, Express.js",
   },
   {
     title: "Password Generator",
-    imagePath: "./images/password-generator.png",
+    imagePath: passwordGenerator,
     imageUrl: "https://github.com/Najiba-Haidari/week3-challenge-password-generator",
     alt: "Password Generator",
     language: "Javascript",
